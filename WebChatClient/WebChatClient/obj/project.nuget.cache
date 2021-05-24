@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "owSbBTcPyjQ+bjhk8NWKUEZO+YwwMBU28L4mIZnvzF4kgcNPZMi2M/aHcyRumURmyrq/wSVAV5RJ4mQNtmKpqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mathr\\source\\repos\\WebChatClient\\WebChatClient\\WebChatClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mathr\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

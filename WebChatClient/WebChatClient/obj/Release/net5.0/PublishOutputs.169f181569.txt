@@ -1,0 +1,6 @@
+C:\Publish\WebChatClient.exe
+C:\Publish\WebChatClient.dll
+C:\Publish\WebChatClient.deps.json
+C:\Publish\WebChatClient.runtimeconfig.json
+C:\Publish\WebChatClient.pdb
+C:\Publish\Newtonsoft.Json.dll

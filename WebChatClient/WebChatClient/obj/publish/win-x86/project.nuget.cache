@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4u3dn2IqgUkQUoeOkDW8zPmS/Jq5wCJk/bJKzrUtITHDi7g0HwEqZLDiJTtUhNuNGQ5v1PvoA2olRCB7ztODaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mathr\\source\\repos\\WebChatClient\\WebChatClient\\WebChatClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mathr\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\mathr\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\5.0.5\\microsoft.netcore.app.runtime.win-x86.5.0.5.nupkg.sha512",
+    "C:\\Users\\mathr\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\5.0.5\\microsoft.windowsdesktop.app.runtime.win-x86.5.0.5.nupkg.sha512",
+    "C:\\Users\\mathr\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\5.0.5\\microsoft.aspnetcore.app.runtime.win-x86.5.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
